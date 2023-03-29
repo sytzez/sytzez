@@ -2,11 +2,11 @@
 
 ## Overview of my projects on GitHub
 
-- [Compost](https://github.com/sytzez/compost) - Intepreter for experimental programming language
+- [Compost](https://github.com/sytzez/compost) - Intepreter for an experimental programming language
   - `Rust`
-- [Muvis](https://github.com/sytzez/muvis) - Music visualiser
+- [Muvis](https://github.com/sytzez/muvis) - Music visualiser that turns MIDI into visuals
   - `React` `Redux` `WebGL` `GLSL`
-- [Compost Playground](https://github.com/sytzez/compost-playground) - An online playground for Compost
+- [Compost Playground](https://github.com/sytzez/compost-playground) - Online playground for Compost
   - `Rust` `Actix Web`
 - [Deeplomacy](https://github.com/sytzez/deeplomacy) - Online multiplayer game
   - `PHP` `TypeScript` `Laravel` `Angular` `PHPUnit`

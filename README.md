@@ -16,5 +16,7 @@
   - `Rust` `Actix Web`
 - [Taskany](https://github.com/sytzez/taskany) - Project task manager
   - `Ruby on Rails` `Hotwire` `Rspec` `FactoryBot` `Devise` `Sass` `ViewComponent`
+- [Audiovisual](https://github.com/sytzez/audiovisual) - Collection of real-time rendered audiovisual pieces. [Experience it now](https://sytzez.github.io/audiovisual/).
+  - `WebAudio` `WebGL` `GLSL` `WebMIDI`
 - [sytzez.com](https://github.com/sytzez/site) - Personal blog. [Visit](https://sytzez.com).
   - `Hugo`

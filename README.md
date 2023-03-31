@@ -10,7 +10,7 @@
   - `PHP` `TypeScript` `Laravel` `Angular` `WebPack` `PHPUnit`
 - [Data Object Tester](https://github.com/sytzez/data-object-tester) - Rigorously tests data objects in PHPUnit.
   - `PHP` `PHPUnit`
-- [Recipe Builder](https://github.com/sytzez/recipe-builder) - Builds recipes and calculates the cost. [View the app](https://sytzez.github.io/recipe-builder/).
+- [Recipe Builder](https://github.com/sytzez/recipe-builder) - Builds recipes and calculates the cost. [View the app](https://recipe-builder-chi.vercel.app/).
   - `TypeScript` `SolidJS` `TailwindCSS` `Yup` `Vite` `Vitest`
 - [Audiovisual](https://github.com/sytzez/audiovisual) - Collection of real-time rendered audiovisual pieces. [Experience it now](https://sytzez.github.io/audiovisual/).
   - `WebAudio` `WebGL` `GLSL` `WebMIDI`

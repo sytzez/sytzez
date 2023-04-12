@@ -2,6 +2,8 @@
 
 ## Overview of my projects on GitHub
 
+- [Secret Sint](https://github.com/sytzez/secret-sint) - Dutch version of Secret Santa. Organise and track the status of deliveries for your groups.
+  - `Ruby on Rails` `Devise` `RSpec` `FactoryBot` `React` `TailwindCSS` `Vite` `React testing library`
 - [Compost](https://github.com/sytzez/compost) - Intepreter for an experimental programming language. [Try it online](http://compost-playground.sytzez.com/).
   - `Rust`
 - [Muvis](https://github.com/sytzez/muvis) - Music visualiser that turns MIDI into visuals. [View the app](https://sytzez.github.io/muvis/).
